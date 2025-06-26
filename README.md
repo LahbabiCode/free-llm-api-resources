@@ -179,7 +179,7 @@ Free tier restricted to 8K context.
 ### [Groq](https://console.groq.com)
 
 <table><thead><tr><th>Model Name</th><th>Model Limits</th></tr></thead><tbody>
-<tr><td>Allam 2 7B</td><td>7,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>Allam 2 7B</td><td></td></tr>
 <tr><td>DeepSeek R1 Distill Llama 70B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Distil Whisper Large v3</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
 <tr><td>Gemma 2 9B Instruct</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
@@ -189,7 +189,7 @@ Free tier restricted to 8K context.
 <tr><td>Llama 3 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Llama 3.1 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Llama 3.3 70B</td><td>1,000 requests/day<br>12,000 tokens/minute</td></tr>
-<tr><td>Llama 4 Maverick 17B 128E Instruct</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>Llama 4 Maverick 17B 128E Instruct</td><td></td></tr>
 <tr><td>Llama 4 Scout Instruct</td><td>1,000 requests/day<br>30,000 tokens/minute</td></tr>
 <tr><td>Mistral Saba 24B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Qwen QwQ 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
@@ -198,7 +198,7 @@ Free tier restricted to 8K context.
 <tr><td>meta-llama/llama-guard-4-12b</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
 <tr><td>meta-llama/llama-prompt-guard-2-22m</td><td></td></tr>
 <tr><td>meta-llama/llama-prompt-guard-2-86m</td><td></td></tr>
-<tr><td>qwen/qwen3-32b</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>qwen/qwen3-32b</td><td></td></tr>
 </tbody></table>
 
 ### [Together (Free)](https://together.ai)
