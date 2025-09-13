@@ -99,6 +99,8 @@ Models share a common quota.
 - [mistralai/devstral-small:free](https://openrouter.ai/mistralai/devstral-small:free)
 - [mistralai/mistral-small-3.2-24b-instruct:free](https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct:free)
 - [moonshotai/kimi-dev-72b:free](https://openrouter.ai/moonshotai/kimi-dev-72b:free)
+
+
 - [qwen/qwen3-14b:free](https://openrouter.ai/qwen/qwen3-14b:free)
 - [qwen/qwen3-235b-a22b:free](https://openrouter.ai/qwen/qwen3-235b-a22b:free)
 - [qwen/qwen3-30b-a3b:free](https://openrouter.ai/qwen/qwen3-30b-a3b:free)
@@ -107,7 +109,6 @@ Models share a common quota.
 - [sarvamai/sarvam-m:free](https://openrouter.ai/sarvamai/sarvam-m:free)
 - [thudm/glm-4-32b:free](https://openrouter.ai/thudm/glm-4-32b:free)
 - [thudm/glm-z1-32b:free](https://openrouter.ai/thudm/glm-z1-32b:free)
-- [tngtech/deepseek-r1t-chimera:free](https://openrouter.ai/tngtech/deepseek-r1t-chimera:free)
 
 ### [Google AI Studio](https://aistudio.google.com)
 
