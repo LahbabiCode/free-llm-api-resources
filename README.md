@@ -61,7 +61,6 @@ Models share a common quota.
 - [DeepSeek R1](https://openrouter.ai/deepseek/deepseek-r1:free)
 - [DeepSeek R1 Distill Llama 70B](https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b:free)
 - [DeepSeek R1 Distill Qwen 14B](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-14b:free)
-- [DeepSeek R1 Distill Qwen 32B](https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b:free)
 - [DeepSeek V3](https://openrouter.ai/deepseek/deepseek-chat:free)
 - [DeepSeek V3 0324](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free)
 - [DeepSeek V3 Base](https://openrouter.ai/deepseek/deepseek-v3-base:free)
@@ -77,7 +76,6 @@ Models share a common quota.
 - [Llama 3.1 Nemotron Ultra 253B v1](https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1:free)
 - [Llama 3.2 11B Vision Instruct](https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct:free)
 - [Llama 3.2 1B Instruct](https://openrouter.ai/meta-llama/llama-3.2-1b-instruct:free)
-- [Llama 3.2 3B Instruct](https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free)
 - [Llama 3.3 70B Instruct](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free)
 - [Llama 3.3 Nemotron Super 49B v1](https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1:free)
 - [Llama 4 Maverick](https://openrouter.ai/meta-llama/llama-4-maverick:free)
@@ -97,14 +95,12 @@ Models share a common quota.
 - [deepseek/deepseek-r1-0528-qwen3-8b:free](https://openrouter.ai/deepseek/deepseek-r1-0528-qwen3-8b:free)
 - [deepseek/deepseek-r1-0528:free](https://openrouter.ai/deepseek/deepseek-r1-0528:free)
 - [google/gemma-3n-e4b-it:free](https://openrouter.ai/google/gemma-3n-e4b-it:free)
-- [meta-llama/llama-3.3-8b-instruct:free](https://openrouter.ai/meta-llama/llama-3.3-8b-instruct:free)
 - [microsoft/mai-ds-r1:free](https://openrouter.ai/microsoft/mai-ds-r1:free)
-- [microsoft/phi-4-reasoning-plus:free](https://openrouter.ai/microsoft/phi-4-reasoning-plus:free)
-- [microsoft/phi-4-reasoning:free](https://openrouter.ai/microsoft/phi-4-reasoning:free)
 - [mistralai/devstral-small:free](https://openrouter.ai/mistralai/devstral-small:free)
+- [mistralai/mistral-small-3.2-24b-instruct:free](https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct:free)
 - [moonshotai/kimi-dev-72b:free](https://openrouter.ai/moonshotai/kimi-dev-72b:free)
-- [opengvlab/internvl3-14b:free](https://openrouter.ai/opengvlab/internvl3-14b:free)
-- [opengvlab/internvl3-2b:free](https://openrouter.ai/opengvlab/internvl3-2b:free)
+
+
 - [qwen/qwen3-14b:free](https://openrouter.ai/qwen/qwen3-14b:free)
 - [qwen/qwen3-235b-a22b:free](https://openrouter.ai/qwen/qwen3-235b-a22b:free)
 - [qwen/qwen3-30b-a3b:free](https://openrouter.ai/qwen/qwen3-30b-a3b:free)
@@ -119,12 +115,12 @@ Models share a common quota.
 Data is used for training when used outside of the UK/CH/EEA/EU.
 
 <table><thead><tr><th>Model Name</th><th>Model Limits</th></tr></thead><tbody>
-<tr><td>Gemini 2.5 Flash (Preview)</td><td>250,000 tokens/minute<br>500 requests/day<br>10 requests/minute</td></tr>
-<tr><td>Gemini 2.0 Flash</td><td>1,000,000 tokens/minute<br>1,000 requests/day<br>15 requests/minute</td></tr>
-<tr><td>Gemini 2.0 Flash-Lite</td><td>1,000,000 tokens/minute<br>1,500 requests/day<br>30 requests/minute</td></tr>
-<tr><td>Gemini 2.0 Flash (Experimental)</td><td>250,000 tokens/minute<br>500 requests/day<br>10 requests/minute</td></tr>
-<tr><td>Gemini 1.5 Flash</td><td>250,000 tokens/minute<br>500 requests/day<br>15 requests/minute</td></tr>
-<tr><td>Gemini 1.5 Flash-8B</td><td>250,000 tokens/minute<br>500 requests/day<br>15 requests/minute</td></tr>
+<tr><td>Gemini 2.5 Flash (Preview)</td><td>250,000 tokens/minute<br>250 requests/day<br>10 requests/minute</td></tr>
+<tr><td>Gemini 2.0 Flash</td><td>1,000,000 tokens/minute<br>200 requests/day<br>15 requests/minute</td></tr>
+<tr><td>Gemini 2.0 Flash-Lite</td><td>1,000,000 tokens/minute<br>200 requests/day<br>30 requests/minute</td></tr>
+<tr><td>Gemini 2.0 Flash (Experimental)</td><td>250,000 tokens/minute<br>50 requests/day<br>10 requests/minute</td></tr>
+<tr><td>Gemini 1.5 Flash</td><td>250,000 tokens/minute<br>50 requests/day<br>15 requests/minute</td></tr>
+<tr><td>Gemini 1.5 Flash-8B</td><td>250,000 tokens/minute<br>50 requests/day<br>15 requests/minute</td></tr>
 <tr><td>LearnLM 2.0 Flash (Experimental)</td><td>1,500 requests/day<br>15 requests/minute</td></tr>
 <tr><td>Gemma 3 27B Instruct</td><td>15,000 tokens/minute<br>14,400 requests/day<br>30 requests/minute</td></tr>
 <tr><td>Gemma 3 12B Instruct</td><td>15,000 tokens/minute<br>14,400 requests/day<br>30 requests/minute</td></tr>
@@ -184,7 +180,7 @@ Free tier restricted to 8K context.
 ### [Groq](https://console.groq.com)
 
 <table><thead><tr><th>Model Name</th><th>Model Limits</th></tr></thead><tbody>
-<tr><td>Allam 2 7B</td><td>7,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>Allam 2 7B</td><td></td></tr>
 <tr><td>DeepSeek R1 Distill Llama 70B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Distil Whisper Large v3</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
 <tr><td>Gemma 2 9B Instruct</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
@@ -194,7 +190,7 @@ Free tier restricted to 8K context.
 <tr><td>Llama 3 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Llama 3.1 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Llama 3.3 70B</td><td>1,000 requests/day<br>12,000 tokens/minute</td></tr>
-<tr><td>Llama 4 Maverick 17B 128E Instruct</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>Llama 4 Maverick 17B 128E Instruct</td><td></td></tr>
 <tr><td>Llama 4 Scout Instruct</td><td>1,000 requests/day<br>30,000 tokens/minute</td></tr>
 <tr><td>Mistral Saba 24B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
 <tr><td>Qwen QwQ 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
@@ -203,7 +199,7 @@ Free tier restricted to 8K context.
 <tr><td>meta-llama/llama-guard-4-12b</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
 <tr><td>meta-llama/llama-prompt-guard-2-22m</td><td></td></tr>
 <tr><td>meta-llama/llama-prompt-guard-2-86m</td><td></td></tr>
-<tr><td>qwen/qwen3-32b</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
+<tr><td>qwen/qwen3-32b</td><td></td></tr>
 </tbody></table>
 
 ### [Together (Free)](https://together.ai)
@@ -315,9 +311,11 @@ Data is sent to individual hosts.
 - Qwen 2.5 VL 32B Instruct
 - Shisa V2 Llama 3.3 70B
 - bytedance-seed/seed-coder-8b-reasoning-bf16
+- chutesai/mistral-small-3.2-24b-instruct-2506
 - deepseek-ai/deepseek-r1-0528
 - deepseek-ai/deepseek-r1-0528-qwen3-8b
 - microsoft/mai-ds-r1-fp8
+- minimaxai/minimax-m1-80k
 - moonshotai/kimi-dev-72b
 - qwen/qwen3-14b
 - qwen/qwen3-30b-a3b
@@ -531,19 +529,12 @@ Very stringent payment verification for Google Cloud.
 **Credits:** $5 for 3 months
 
 **Models:**
+- 
 - E5-Mistral-7B-Instruct
-- Llama 3.1 405B
 - Llama 3.1 8B
-- Llama 3.2 1B
-- Llama 3.2 3B
 - Llama 3.3 70B
 - Llama-4-Maverick-17B-128E-Instruct
-- Llama-4-Scout-17B-16E-Instruct
-- Llama-Guard-3-8B
-- Qwen/QwQ-32B
-- Qwen/Qwen2-Audio-7B-Instruct
 - Qwen/Qwen3-32B
-- deepseek-ai/DeepSeek-R1
 - deepseek-ai/DeepSeek-R1-0528
 - deepseek-ai/DeepSeek-R1-Distill-Llama-70B
 - deepseek-ai/DeepSeek-V3-0324
